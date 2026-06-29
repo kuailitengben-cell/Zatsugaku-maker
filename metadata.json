@@ -1,0 +1,6 @@
+{
+  "name": "雑学ジェネレーター",
+  "description": "ページを更新するたびに、新しくて興味深い雑学を表示します。大きな見出しと詳細な説明で、知識を深めましょう。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
